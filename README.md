@@ -1,10 +1,2 @@
-- 👋 Hi, I’m @GregoMorrison
-- 👀 I’m interested in automation ...
-- 🌱 I’m always learning ...
-- 💞️ and collaborating....
-- and finding new ways to make things better!
+As Chief AI Officer at White Tip Sharks, a technology start-up headquartered in San Diego, CA that specializes in Intelligent Automation, we help customers deliver enterprise automation that is SCALABLE, SECURE, and SPECIFIC to the customer organization
 
-<!---
-GregoMorrison/GregoMorrison is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
