@@ -1,4 +1,1 @@
-White Tip Sharks, a technology start-up headquartered in San Diego, CA that specializes in Intelligent Automation, delivers enterprise automation that is SCALABLE, SECURE, and SPECIFIC to the customer organization.
-Visit us to day at www.whitetipsharks.com
-
-
+ServiceNow is the AI control tower for business reinvention —and it all begins with workflows. We are a single platform that brings together any AI, any data, and any workflow, so you can completely transform how people work across every corner of your business. IT problems vanish before they appear. Operational systems alert and fix before a failure even happens. Customers receive answers before frustration sets in. Field service arrives on‑time, informed, and ready. And your people? They spend less time mired in busywork and more time doing what they were actually hired to do. That’s how you put AI to work for people.
